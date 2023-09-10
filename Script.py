@@ -1574,63 +1574,63 @@ def gachi(app, msg):
 @app.on_message(filters.command("300", prefixes=".") & filters.me)
 def gachi(app, msg):
 	msg.delete()
-	app.send_voice(msg.chat.id, "gachi/fisting-is-300-.mp3")
+	app.send_voice(msg.chat.id, "fisting-is-300-.mp3")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("woo", prefixes=".") & filters.me)
 def gachi(app, msg):
 	msg.delete()
-	app.send_voice(msg.chat.id, "gachi/woo.mp3")
+	app.send_voice(msg.chat.id, "woo.mp3")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("fuckyou", prefixes=".") & filters.me)
 def gachi(app, msg):
 	msg.delete()
-	app.send_voice(msg.chat.id, "gachi/fuck-you1.mp3")
+	app.send_voice(msg.chat.id, "fuck-you1.mp3")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("dungeonmaster", prefixes=".") & filters.me)
 def gachi(app, msg):
 	msg.delete()
-	app.send_voice(msg.chat.id, "gachi/dungeon-master.mp3")
+	app.send_voice(msg.chat.id, "dungeon-master.mp3")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("spank", prefixes=".") & filters.me)
 def gachi(app, msg):
 	msg.delete()
-	app.send_voice(msg.chat.id, "gachi/spank.mp3")
+	app.send_voice(msg.chat.id, "spank.mp3")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("iamsorry", prefixes=".") & filters.me)
 def gachi(app, msg):
 	msg.delete()
-	app.send_voice(msg.chat.id, "gachi/oh-shit-iam-sorry.mp3")
+	app.send_voice(msg.chat.id, "oh-shit-iam-sorry.mp3")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("ass", prefixes=".") & filters.me)
 def gachi(app, msg):
 	msg.delete()
-	app.send_voice(msg.chat.id, "gachi/stick-your-finger-in-my-ass.mp3")
+	app.send_voice(msg.chat.id, "stick-your-finger-in-my-ass.mp3")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("boynextdoor", prefixes=".") & filters.me)
 def gachi(app, msg):
 	msg.delete()
-	app.send_voice(msg.chat.id, "gachi/boy-next-door.mp3")
+	app.send_voice(msg.chat.id, "boy-next-door.mp3")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("letsgo", prefixes=".") & filters.me)
 def gachi(app, msg):
 	msg.delete()
-	app.send_voice(msg.chat.id, "gachi/come-on-lets-go.mp3")
+	app.send_voice(msg.chat.id, "come-on-lets-go.mp3")
 	global number
 	number = number + 1
 
@@ -1662,77 +1662,83 @@ def video(app, msg):
 @app.on_message(filters.command("диско", prefixes=".") & filters.me)
 def mems(app, msg):
 	msg.delete()
-	app.send_video(msg.chat.id, "video/discko.mp4")
+	app.send_video(msg.chat.id, "discko.mp4")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("ебаныйврот", prefixes=".") & filters.me)
 def mems(app, msg):
 	msg.delete()
-	app.send_video(msg.chat.id, "video/ebaniy-v-rot.mp4")
+	app.send_video(msg.chat.id, "ebaniy-v-rot.mp4")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("фортилипабаджи", prefixes=".") & filters.me)
 def mems(app, msg):
 	msg.delete()
-	app.send_video(msg.chat.id, "video/fortnite-ili-pubg.mp4")
+	app.send_video(msg.chat.id, "fortnite-ili-pubg.mp4")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("мамескажи", prefixes=".") & filters.me)
 def mems(app, msg):
 	msg.delete()
-	app.send_video(msg.chat.id, "video/mame-ckaji.mp4")
+	app.send_video(msg.chat.id, "mame-ckaji.mp4")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("мнепоебать", prefixes=".") & filters.me)
 def mems(app, msg):
 	msg.delete()
-	app.send_video(msg.chat.id, "video/mne-poebat.MP4")
+	app.send_video(msg.chat.id, "mne-poebat.MP4")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("сасать", prefixes=".") & filters.me)
 def mems(app, msg):
 	msg.delete()
-	app.send_video(msg.chat.id, "video/sasatb.mp4")
+	app.send_video(msg.chat.id, "sasatb.MP4")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("чтоэтотакое", prefixes=".") & filters.me)
 def mems(app, msg):
 	msg.delete()
-	app.send_video(msg.chat.id, "video/sho-eto-takoe.mp4")
+	app.send_video(msg.chat.id, "sho-eto-takoe.mp4")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("твояматьш", prefixes=".") & filters.me)
 def mems(app, msg):
 	msg.delete()
-	app.send_video(msg.chat.id, "video/tvoya-matb-sh.mp4")
+	app.send_video(msg.chat.id, "tvoya-matb-sh.mp4")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("япопулярный", prefixes=".") & filters.me)
 def mems(app, msg):
 	msg.delete()
-	app.send_video(msg.chat.id, "video/ya-popylarniy.mp4")
+	app.send_video(msg.chat.id, "ya-popylarniy.mp4")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("тыпиздабол", prefixes=".") & filters.me)
 def mems(app, msg):
 	msg.delete()
-	app.send_video(msg.chat.id, "video/syda-po-formyle.mp4")
+	app.send_video(msg.chat.id, "syda-po-formyle.mp4")
 	global number
 	number = number + 1
 
 @app.on_message(filters.command("хватитдрочить", prefixes=".") & filters.me)
 def mems(app, msg):
 	msg.delete()
-	app.send_video(msg.chat.id, "video/xvatit-drochit.mp4")
+	app.send_video(msg.chat.id, "xvatit-drochit.mp4")
+	global number
+	number = number + 1
+	@app.on_message(filters.command("чозахуйня", prefixes=".") & filters.me)
+def mems(app, msg):
+	msg.delete()
+	app.send_video(msg.chat.id, "cho-za-huyanya.mp4")
 	global number
 	number = number + 1
 
@@ -5590,7 +5596,7 @@ def betaloves(_, msg):
 	🤍💙💛💜🧡🧡💚💛🤍
 	🤍🤍🧡💚🧡💚💙🤍🤍
 	🤍🤍🤍💜💛💜🤍🤍🤍
-	🤍🤍🤍🤍💛🤍??🤍🤍
+	🤍🤍??🤍💛🤍??🤍🤍
 	🤍🤍🤍🤍🤍🤍🤍🤍🤍''')
 	sleep(0.6) 
 	msg.edit(f'''
@@ -6867,7 +6873,7 @@ def betaloves(_, msg):
 		msg.edit(f'''   
 🟦🟦🟦🟦🟦🟦🟦
 🟦🟦⬛️⬛️⬛️🟦🟦
-🟦⬛️🟦🟦🟦⬛️🟦
+🟦⬛️🟦??🟦⬛️🟦
 🟦🟦🟦🟦⬛️🟦🟦
 🟦🟦🟦⬛️🟦🟦🟦
 🟦🟦🟦⬛️🟦🟦🟦
@@ -6880,7 +6886,7 @@ def betaloves(_, msg):
 🟦⬛️🟦🟦🟦⬛️🟦
 🟦🟦🟦🟦⬛️🟦🟦
 🟦🟦🟦⬛️🟦🟦🟦
-🟦🟦🟦⬛️🟦??🟦
+🟦??🟦⬛️🟦??🟦
 🟦🟦🟦🟦🟦🟦🟦
 🟦🟦🟦⬛️🟦🟦''')
 		sleep(0.001)
@@ -7648,7 +7654,7 @@ ziga = '''
 
 🤍🤍🤍🤍🤍🤍🤍🤍🤍
 🤍🤍🤍🤍❤️🤍🤍🤍🤍
-🤍🤍🤍🤍❤️🤍🤍🤍🤍
+🤍🤍🤍??❤️🤍🤍🤍🤍
 🤍🤍🤍🤍❤️🤍🤍🤍🤍
 🤍❤️❤️❤️❤️❤️❤️❤️🤍
 🤍🤍🤍🤍❤️🤍🤍🤍🤍
@@ -7659,7 +7665,7 @@ ziga = '''
 🤍🤍🤍🤍🤍🤍🤍🤍🤍
 🤍🤍🤍❤️❤️🤍🤍🤍🤍
 🤍🤍🤍🤍❤️🤍🤍🤍🤍
-🤍🤍🤍🤍❤️🤍🤍❤️🤍
+🤍🤍🤍🤍❤️??🤍❤️🤍
 🤍❤️❤️❤️❤️❤️❤️❤️🤍
 🤍❤️🤍🤍❤️🤍🤍🤍🤍
 🤍🤍🤍🤍❤️🤍🤍🤍🤍
