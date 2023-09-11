@@ -1735,13 +1735,6 @@ def mems(app, msg):
 	app.send_video(msg.chat.id, "xvatit-drochit.mp4")
 	global number
 	number = number + 1
-	
-	@app.on_message(filters.command("чозахуйня", prefixes=".") & filters.me)
-def mems(app, msg):
-	msg.delete()
-	app.send_video(msg.chat.id, "cho-za-huyanya.mp4")
-	global number
-	number = number + 1
 
 @app.on_message(filters.command("gifs", prefixes=".") & filters.me)
 def mems(app, msg):
