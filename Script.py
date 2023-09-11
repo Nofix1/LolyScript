@@ -1452,7 +1452,190 @@ def spam(app, msg):
 def valentine(app, message):
 	message.delete()
 	app.send_message(message.chat.id,"""
-📙<b> Команды:</b> \n<b> - https://t.me/+P7r_2Nxs2P5iMzFi </b> \n
+📙<b> 📙 Команды:
+	📂Скрипт спама 1000-7
+	+ Введите: .ghoul
+	📂Скрипт анимации «Я дед инсайд💚»
+	+ Введите .dead 5 
+	📂Скрипт анимации для влюблённых: «Спокойной ночи❤️»
+	+ Введите .night 5
+	📂Скрипт анимации «Я люблю тебя❤️‍🔥»
+	+ Введите .love 5 
+	📂Скрипт анимации «ВЗЛОМ ЖОПЫ»
+	+ Введите .jopa 5 
+	📂Скрипт анимации «ZIGA»
+	+ Введите .ziga 5 
+	📂Скрипт анимации «Сердце»
+	+ Введите .heart 
+	📂Скрипт анимации «Оскорбления 🔞»
+	+ Введите .toxic 
+	📂Скрипт анимации «Я люблю когда волосатыe... »
+	+ Введите .maslo 
+	📂Скрипт «Случайное число»
+	+ Введите .random 10/100/1000 
+	(Примеры: .random 10 ; .random 100)
+	📂Скрипт «СПАМ»
+	+ Введите .spam 30/100/500/1000 
+	(Примеры: .spam 30 ; .spam 1000)
+	📂 Скрипт анимации «Я ЛЮБЛЮ ТЕБЯ🤍»
+	+ Введите: .loves
+	📂 Скрипт анимации «All my friends are toxiс..»
+	+ Введите: .zxc 3
+	📂 Скрипт анимации «Дизлайк»
+	+ Введите: .dislike
+	📂 Скрипт анимации «Лайк»
+	+ Введите: .like
+	📂 Скрипт для красивого написания текста «TYPE»
+	+ Введите: .type "текст"
+	📂 Скрипт для спама стикерами дизлайка «Spamstick»
+	+ Введите: .spamstick кол-во стикеров
+	📂 Скрипт мини-игры «Kill»
+	+ Введите: .kill
+	📂 Скрипт мини-игры «Футбол»
+	+ Введите: .football
+	📂 Скрипт анимации «Комплименты» на 8 марта 
+	+ Введите: .compli 0
+	📂 Анимация "Поиск м@маши"
+	+ Введите: .mum
+	📂 Скрипт для спама вашими словами
+	+ Введите: .spam кол-во слово
+	📂 Анимация "Вкид н@рко"
+	+ Введите: .drugs
+	📂 Х¥й из смайликов
+	+ Введите: .xuy
+	📂 Скрипт вопросительный знак 
+	+ Введите: .vopros
+	📂 Скрипт музыка Showdown - Shadowraze
+	+ Введите: .showdown
+	📂 Скрипт для превращения в гея 
+	+ Введите: .gay
+	📂 Анимация взлома чата 
+	+ Введите: .hack
+	📂 Анимация анального проникновения админу 
+	+ Введите: .onal
+	📂 Скрипт буква F из лун 
+	+ Введите: .f
+	📂 Скрипт Удачно/не удачно 
+	+ Введите: .try "вопрос"
+	📂 Анимация сердечка 
+	+ Введите: .magic
+	📂 Анимация взлома пк 
+	+ Введите: .hackpc
+	📂 Анимация человечек бежит  
+	+ Введите: .run
+	📂 Анимация пинг-понга 
+	+ Введите: .pong
+	📂 Анимация консоли 
+	+ Введите: .console или .cmd 
+	📂 Анимация мозг 
+	+ Введите: .brain или .b
+	📂 Скрипт Never Enought - ZXCursed 
+	+ Введите: .NeverEnough или .ne или .zxcursed
+	📂 Анимация текста 
+	+ Введите: .text <текст>
+	📂 Скрипт Версус баттл Oxxxymiron'a 
+	+ Введите: .battle или .versus или .oxxxymiron
+	📂 Анимация Богдан ищет какиш 
+	+ Введите: .bogdan
+	📂 Скрипт Konfuz - Кайф ты поймала 
+	+ Введите: .kaif или .konfuz
+	📂 Скрипт Доброе утро 
+	+ Введите: .day 5
+	📂 Скрипт Комплименты 
+	+ Введите: .compliment 5
+	📂 Анимация С днём рождением! 
+	+ Введите: .dr
+	📂 Скрипт Shadowraze - Astral step 
+	+ Введите: .astralstep
+	📂 Скрипт Shadowraze - Shadowfiend 
+	+ Введите: .shadowfiend
+	📂 Скрипт Ебанько - Я ебу собак 
+	+ Введите: .zoo
+	📂 Скрипт Ебанько - Ландыши 
+	+ Введите: .landisi
+	📂 Скрипт Полматери - Ярче звёзд 
+	+ Введите: .polmateri или .stars
+	📂 Меню голосовых мемов: 
+	+ Введите: .mems
+	📂 Меню голосовых GACHY мемов 
+	+ Введите: .gachi
+	📂 Меню видео-мемов: 
+	+ Введите: .video
+	📂 Анимация Взлом банковской карты 
+	+ Введите: .bank
+	📂 Анимация Сердечка 
+	+ Введите: .loveyou
+	📂 Меню gif мемов 
+	+ Введите: .gifs
+	📂 Команда закрывающая скрипт 
+	+ Введите: .stop
+	📂 Анимация сердца 
+	+ Введите: .heart2
+	📂 Анимация поиск зайки 
+	+ Введите: .zaika
+	📂 Анимация увеличения пениса 
+	+ Введите: .penis
+	📂 Анимация взлом аккаунта 
+	+ Введите: .vzlom
+	📂 Анимация взлом IP 
+	+ Введите: .vzlomip
+	📂 Делает ник с красивым шрифтом
+	+ Введите: .nick
+	📂 Reverse карта 
+	+ Введите: .uno
+	📂 Симв. анимация текста PIZZA 
+	+ Введите: .pizza
+	📂 Симв. анимация «Пикачу»
+	+ Введите: .pikachu
+	📂  Симв. анимация «Губка Боб»
+	+ Введите: .gubka
+	📂 Спам реакциями 
+	+ Введите: .spamstick
+	📂 Анимация VIP из Тик-Тока 
+	+ Введите: .vip
+	📂 Префикс в /profile 
+	+ Введите: .prefix <текст>
+	📂 Симв. анимация «Чай» 
+	+ Введите: .tea <текст> 
+	📂 обновлён профиль
+	+ Введите: .profile
+	📂 Спам реакциями
+	+ Введите: .spamreaction 10 ❤️
+	📂 Анимация BANANA
+	+ Введите: .banana
+	📂 Добавлен 2-ой режим
+	+ Введите: .ziga
+	📂 Игра в крестики нолики
+	+ Введите: .play 1
+	📂 Поиск видео в ютубе
+	+ Введите: .youtube <название>
+	📂 Поиск картинок в яндексе
+	+ Введите: .photo <текст>
+	📂 Анимация ушёл за хлебом
+	+ Введите: .xleb
+	📂 Анимация с облаками (НОВОЕ)
+	+ Введите: .cloud <текст>
+	📂 Анимация с луной (НОВОЕ)
+	+ Введите: .moon <текст>
+	📂 Анимация с часами (НОВОЕ)
+	+ Введите: .clock <текст>
+	📂 Анимация с планетой (НОВОЕ)
+	+ Введите: .world <текст>
+	📂 Анимация с клоуном (НОВОЕ)
+	+ Введите: .clown <текст>
+	📂 Скрипт с днём рождения (НОВОЕ)
+	+ Введите: .др
+	📂 Закрепить сообщение (НОВОЕ)
+	+ Введите: .pin
+	📂 Открепить сообщение (НОВОЕ)
+	+ Введите: .unpin
+	📂 Открепить все сообщения (НОВОЕ)
+	+ Введите: .unallpin
+	📂 Поставить реакцию на сообщение (НОВОЕ)
+	Доступные эмодзи: 👍; 👎; ❤️; 🔥; 🎉; 🤩; 😱; 😁; 😢; 💩; 🤮; 🥰; 🤯; 🤔и др.
+	+ Введите: .r <эмодзи>
+	📂 Скрипт анимации Фашизма ".яфашист 1-5"
+	📂 Обновленный скрипт зиги ".z1ga"</b> \n
 		""", disable_web_page_preview=True)
 
 @app.on_message(filters.command("mems", prefixes=".") & filters.me)
@@ -2131,7 +2314,7 @@ async def betaloves(app, message):
 			if mode == 2:
 				time = 0.6
 				for i in range(1):
-					await message.edit(f"\n🤍🤍🤍🤍🤍??🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍????🤍{random.choice(hearts)}🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍")
+					await message.edit(f"\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍??{random.choice(hearts)}🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍")
 					await asyncio.sleep(time)
 					await message.edit(f"\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍{random.choice(hearts)}🤍🤍🤍🤍\n🤍🤍🤍{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}🤍🤍🤍\n🤍🤍🤍🤍{random.choice(hearts)}🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍")
 					await asyncio.sleep(time)
@@ -2143,7 +2326,7 @@ async def betaloves(app, message):
 					await asyncio.sleep(time)
 					await message.edit(f"\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}🤍🤍🤍🤍\n🤍🤍🤍🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍\n🤍🤍🤍🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍\n🤍{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}🤍\n🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍🤍🤍🤍\n🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍🤍🤍🤍\n🤍🤍🤍🤍{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍")
 					await asyncio.sleep(time)
-					await message.edit(f"\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍\n🤍🤍🤍🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍\n🤍🤍🤍🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍\n🤍{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}🤍\n🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍🤍🤍🤍\n🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍🤍🤍🤍\n🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍")
+					await message.edit(f"\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍\n🤍🤍🤍🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍\n🤍🤍🤍🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍\n🤍{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}🤍\n🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍🤍🤍🤍\n🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍🤍🤍🤍\n??{random.choice(hearts)}🤍🤍{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍")
 					await asyncio.sleep(time)
 					await message.edit(f"\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}🤍{random.choice(hearts)}{random.choice(hearts)}🤍\n🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍\n🤍🤍🤍🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍\n🤍{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}🤍\n🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍🤍🤍🤍\n🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍🤍{random.choice(hearts)}🤍\n🤍{random.choice(hearts)}{random.choice(hearts)}🤍{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}{random.choice(hearts)}🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍")
 					await asyncio.sleep(time)
@@ -2185,11 +2368,11 @@ async def betaloves(app, message):
 			if mode == 1:
 				time = 0.6
 				for i in range(1):
-					await message.edit('\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n??🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
+					await message.edit('\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
 					await asyncio.sleep(time)
 					await message.edit('\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍❤️❤️❤️🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
 					await asyncio.sleep(time)
-					await message.edit('\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍??❤️🤍🤍??🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍❤️❤️❤️❤️❤️🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍??🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
+					await message.edit('\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍❤️??🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍❤️❤️❤️❤️❤️🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
 					await asyncio.sleep(time)
 					await message.edit('\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍❤️❤️❤️❤️❤️❤️❤️🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
 					await asyncio.sleep(time)
@@ -2217,7 +2400,7 @@ async def betaloves(app, message):
 					await asyncio.sleep(time)
 					await message.edit('\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍💛💛💛💛🤍💛💛🤍\n🤍💛🤍🤍💛🤍🤍💛🤍\n🤍🤍🤍🤍💛🤍🤍💛🤍\n🤍💛💛💛💛💛💛💛🤍\n🤍💛🤍🤍💛🤍🤍🤍🤍\n🤍💛🤍🤍💛🤍🤍💛🤍\n🤍💛💛🤍💛💛💛💛🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
 					await asyncio.sleep(time)
-					await message.edit('\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍💚💚💚💚🤍💚💚🤍\n🤍💚🤍🤍💚🤍🤍💚🤍\n🤍🤍🤍🤍💚🤍🤍💚🤍\n🤍💚💚💚💚💚💚💚🤍\n🤍💚🤍🤍💚🤍🤍🤍🤍\n🤍💚🤍🤍💚🤍🤍💚🤍\n🤍💚💚🤍💚💚💚💚🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
+					await message.edit('\n🤍🤍??🤍🤍🤍🤍🤍🤍\n🤍💚💚💚💚🤍💚💚🤍\n🤍💚🤍🤍💚🤍🤍💚🤍\n🤍🤍🤍🤍💚🤍🤍💚🤍\n🤍💚💚💚💚💚💚💚🤍\n🤍💚🤍🤍💚🤍🤍🤍🤍\n🤍💚🤍🤍💚🤍🤍💚🤍\n🤍💚💚🤍💚💚💚💚🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
 					await asyncio.sleep(time)
 					await message.edit('\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍💙💙💙💙🤍💙💙🤍\n🤍💙🤍🤍💙🤍🤍💙🤍\n🤍🤍🤍🤍💙🤍🤍💙🤍\n🤍💙💙💙💙💙💙💙🤍\n🤍💙🤍🤍💙🤍🤍🤍🤍\n🤍💙🤍🤍💙🤍🤍💙🤍\n🤍💙💙🤍💙💙💙💙🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
 					await asyncio.sleep(time)
@@ -2253,11 +2436,11 @@ async def betaloves(app, message):
 					await asyncio.sleep(time)
 					await message.edit('\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍❤️❤️❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍❤️🤍\n🤍🤍🤍🤍❤️🤍🤍❤️🤍\n🤍❤️❤️❤️❤️❤️❤️❤️🤍\n🤍❤️🤍🤍❤️🤍🤍🤍🤍\n🤍❤️🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️❤️❤️🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
 					await asyncio.sleep(time)
-					await message.edit('\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍❤️❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍❤️🤍\n🤍❤️❤️❤️❤️❤️❤️❤️🤍\n🤍❤️🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍??❤️❤️🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
+					await message.edit('\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍❤️❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍❤️🤍\n🤍❤️❤️❤️❤️❤️❤️❤️🤍\n🤍❤️🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️❤️🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
 					await asyncio.sleep(time)
 					await message.edit('\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍❤️❤️❤️❤️❤️❤️❤️🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
 					await asyncio.sleep(time)
-					await message.edit('\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n??🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍❤️❤️❤️❤️❤️🤍🤍\n🤍🤍🤍🤍❤️🤍????🤍\n??🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
+					await message.edit('\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍❤️❤️❤️❤️❤️🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍??\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
 					await asyncio.sleep(time)
 					await message.edit('\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍❤️❤️❤️🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍')
 					await asyncio.sleep(time)
@@ -2779,7 +2962,7 @@ def betaloves(_, msg):
 🟦🟦⬜️⬜️⬜️🟦⬜️🟦
 🟦🟦⬜️⬜️⬜️🟦⬜️🟦
 🟦🟦⬜️⬜️⬜️🟦⬜️🟦
-🟦🟦??''')
+🟦🟦🟦''')
 		sleep(0.001)
 		msg.edit(f'''
 🟦🟦🟦🟦🟦🟦🟦🟦
@@ -2811,12 +2994,12 @@ def betaloves(_, msg):
 🟦🟦⬜️⬜️⬜️🟦⬜️🟦
 🟦🟦⬜️⬜️⬜️🟦⬜️🟦
 🟦🟦⬜️⬜️⬜️🟦⬜️🟦
-🟦🟦🟦🟦??🟦🟦''')
+🟦🟦🟦🟦🟦🟦🟦''')
 		sleep(0.001)
 		msg.edit(f'''
 🟦🟦🟦🟦🟦🟦🟦🟦
-🟦🟦🟦🟦⬜️🟦🟦??
-🟦🟦⬜️⬜️⬜️🟦⬜️🟦
+🟦🟦🟦🟦⬜️🟦🟦🟦
+??🟦⬜️⬜️⬜️🟦⬜️🟦
 🟦🟦⬜️⬜️⬜️🟦⬜️🟦
 🟦🟦⬜️⬜️⬜️🟦⬜️🟦
 🟦🟦🟦🟦🟦🟦🟦🟦''')
@@ -3263,19 +3446,6 @@ def betalove(_, msg):
 		sleep(time)
 		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍💚💚🤍💚💚🤍🤍\n🤍💚💚💚💚💚💚💚🤍\n🤍🤍💚💚💚💚💚🤍🤍\n🤍🤍🤍💚💚💚🤍🤍🤍\n🤍🤍🤍🤍💚🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # green
 		sleep(time)
-		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍💙💙🤍💙💙🤍🤍\n🤍💙💙💙💙💙💙💙🤍\n🤍🤍💙💙💙💙💙🤍🤍\n🤍🤍🤍💙💙💙🤍🤍??\n🤍🤍🤍🤍💙🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # blue
-		sleep(time)
-		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍💜💜🤍💜💜🤍🤍\n🤍💜💜💜💜💜💜💜🤍\n🤍🤍💜💜💜💜??🤍🤍\n🤍🤍🤍💜💜💜🤍🤍🤍\n🤍🤍🤍🤍💜🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # purple
-		sleep(time)
-		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🖤🖤🤍🖤🖤🤍🤍\n🤍🖤🖤🖤🖤🖤🖤🖤🤍\n🤍🤍🖤🖤🖤🖤🖤🤍🤍\n🤍🤍🤍🖤🖤🖤🤍🤍🤍\n🤍🤍🤍🤍🖤🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # black
-		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍❤️❤️🤍❤️❤️🤍🤍\n🤍❤️❤️❤️❤️❤️❤️❤️🤍\n🤍🤍❤️❤️❤️❤️❤️🤍🤍\n🤍🤍🤍❤️❤️❤️🤍🤍??\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # red
-		sleep(time)
-		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🧡🧡🤍🧡🧡🤍🤍\n🤍🧡🧡🧡🧡🧡🧡🧡🤍\n🤍🤍🧡🧡🧡🧡🧡🤍🤍\n🤍🤍🤍🧡🧡🧡🤍🤍🤍\n🤍🤍🤍🤍🧡🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍??\n")  # orange
-		sleep(time)
-		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍💛💛🤍💛💛🤍🤍\n🤍💛💛💛💛💛💛💛🤍\n🤍🤍💛💛💛💛💛🤍🤍\n🤍🤍🤍💛💛💛🤍🤍🤍\n🤍🤍🤍🤍💛🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # yellow
-		sleep(time)
-		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍💚💚🤍💚💚🤍🤍\n🤍💚💚💚💚💚💚💚🤍\n🤍🤍💚💚💚💚💚🤍🤍\n🤍🤍🤍💚💚💚🤍🤍🤍\n🤍🤍🤍🤍💚🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # green
-		sleep(time)
 		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍💙💙🤍💙💙🤍🤍\n🤍💙💙💙💙💙💙💙🤍\n🤍🤍💙💙💙💙💙🤍🤍\n🤍🤍🤍💙💙💙🤍🤍🤍\n🤍🤍🤍🤍💙🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # blue
 		sleep(time)
 		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍💜💜🤍💜💜🤍🤍\n🤍💜💜💜💜💜💜💜🤍\n🤍🤍💜💜💜💜💜🤍🤍\n🤍🤍🤍💜💜💜🤍🤍🤍\n🤍🤍🤍🤍💜🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # purple
@@ -3305,6 +3475,19 @@ def betalove(_, msg):
 		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍💙💙🤍💙💙🤍🤍\n🤍💙💙💙💙💙💙💙🤍\n🤍🤍💙💙💙💙💙🤍🤍\n🤍🤍🤍💙💙💙🤍🤍🤍\n🤍🤍🤍🤍💙🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # blue
 		sleep(time)
 		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍💜💜🤍💜💜🤍🤍\n🤍💜💜💜💜💜💜💜🤍\n🤍🤍💜💜💜💜💜🤍🤍\n🤍🤍🤍💜💜💜🤍🤍🤍\n🤍🤍🤍🤍💜🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # purple
+		sleep(time)
+		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🖤🖤🤍🖤🖤🤍🤍\n🤍🖤🖤🖤🖤🖤🖤🖤🤍\n🤍🤍🖤🖤🖤🖤🖤🤍🤍\n🤍🤍🤍🖤🖤🖤🤍🤍🤍\n🤍🤍🤍🤍🖤🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # black
+		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍❤️❤️🤍❤️❤️🤍🤍\n🤍❤️❤️❤️❤️❤️❤️❤️🤍\n🤍🤍❤️❤️❤️❤️❤️🤍🤍\n🤍🤍🤍❤️❤️❤️🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # red
+		sleep(time)
+		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🧡🧡🤍🧡🧡🤍🤍\n🤍🧡🧡🧡🧡🧡🧡🧡🤍\n🤍🤍🧡🧡🧡🧡🧡🤍🤍\n🤍🤍🤍🧡🧡🧡🤍🤍🤍\n🤍🤍🤍🤍🧡🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # orange
+		sleep(time)
+		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍💛💛🤍💛💛🤍🤍\n🤍💛💛💛💛💛💛💛🤍\n🤍🤍💛💛💛💛💛🤍🤍\n🤍🤍🤍💛💛💛🤍🤍🤍\n🤍🤍🤍🤍💛🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # yellow
+		sleep(time)
+		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍💚💚🤍💚💚🤍🤍\n🤍💚💚💚💚💚💚💚🤍\n🤍🤍💚💚💚💚💚🤍🤍\n🤍🤍🤍💚💚💚🤍🤍🤍\n🤍🤍🤍🤍💚🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # green
+		sleep(time)
+		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍💙💙🤍💙💙🤍🤍\n🤍💙💙💙💙💙💙💙🤍\n🤍🤍💙💙💙💙💙🤍🤍\n🤍🤍🤍💙💙💙🤍🤍🤍\n🤍🤍🤍🤍💙🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # blue
+		sleep(time)
+		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍💜💜🤍💜💜🤍🤍\n🤍💜💜💜💜💜💜💜🤍\n🤍🤍💜💜💜💜💜🤍🤍\n🤍🤍🤍💜💜💜🤍🤍🤍\n??🤍🤍🤍💜🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # purple
 		sleep(time)
 		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🖤🖤🤍🖤🖤🤍🤍\n🤍🖤🖤🖤🖤🖤🖤🖤🤍\n🤍🤍🖤🖤🖤🖤🖤🤍🤍\n🤍🤍🤍🖤🖤🖤🤍🤍🤍\n🤍🤍🤍🤍🖤🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # black
 		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍❤️❤️🤍❤️❤️🤍🤍\n🤍❤️❤️❤️❤️❤️❤️❤️🤍\n🤍🤍❤️❤️❤️❤️❤️🤍🤍\n🤍🤍🤍❤️❤️❤️🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # red
@@ -5564,7 +5747,7 @@ def betaloves(_, msg):
 	🤍💙💛💜🧡🧡💚💛🤍
 	🤍🤍🧡💚🧡💚💙🤍🤍
 	🤍🤍🤍💜💛💜🤍🤍🤍
-	??🤍🤍🤍💛🤍🤍🤍🤍
+	🤍🤍🤍🤍💛🤍🤍🤍🤍
 	🤍🤍🤍🤍🤍🤍🤍🤍🤍''')
 	sleep(0.6) 
 	msg.edit(f'''
@@ -5583,21 +5766,21 @@ def betaloves(_, msg):
 	🤍🤍💛❤️🤍💛💛🤍🤍
 	🤍💙❤️💜💛❤️💙💛🤍
 	🤍❤️💚❤️💚💜💚❤️🤍
-	🤍??❤️💜❤️❤️💚💙🤍
+	🤍💙❤️💜❤️❤️💚💙🤍
 	🤍🤍💛💚🧡💛❤️🤍🤍
 	🤍🤍🤍❤️💛💜🤍🤍🤍
 	🤍🤍🤍🤍💛🤍🤍🤍🤍
-	🤍🤍????🤍🤍🤍🤍🤍''')
+	🤍🤍🤍??🤍🤍🤍🤍🤍''')
 	sleep(0.6) 
 	msg.edit(f'''
 	🤍🤍🤍🤍🤍🤍🤍🤍🤍
-	🤍🤍??🧡🤍💛🧡🤍🤍
+	🤍🤍♥️🧡🤍💛🧡🤍🤍
 	🤍🧡🧡💜🧡💚💙💛🤍
 	🤍💛💚💙💚💜💚💜🤍
 	🤍💙💛💜🧡🧡💚💛🤍
 	🤍🤍🧡💚🧡💚💙🤍🤍
 	🤍🤍🤍💜💛💜🤍🤍🤍
-	🤍🤍??🤍💛🤍??🤍🤍
+	🤍🤍🤍🤍💛🤍🤍🤍🤍
 	🤍🤍🤍🤍🤍🤍🤍🤍🤍''')
 	sleep(0.6) 
 	msg.edit(f'''
@@ -5634,7 +5817,7 @@ def betaloves(_, msg):
 	🤍🤍🤍🤍🤍🤍🤍🤍🤍''')
 	sleep(0.6) 
 	msg.edit(f'''
-	❤️❤️❤️🤍🤍🤍🤍🤍🤍
+	🤍🤍🤍🤍🤍🤍🤍🤍🤍
 	🤍🤍❤️❤️🤍❤️❤️🤍🤍
 	🤍❤️❤️❤️❤️❤️❤️❤️🤍
 	🤍❤️❤️❤️❤️❤️❤️❤️🤍
@@ -6834,7 +7017,7 @@ def betaloves(_, msg):
 		msg.edit(f'''   
 🟦🟦🟦🟦🟦🟦🟦
 🟦🟦⬛️⬛️⬛️🟦🟦
-??⬛️🟦🟦🟦⬛️🟦
+🟦⬛️🟦🟦🟦⬛️🟦
 🟦🟦🟦🟦⬛️🟦🟦
 🟦🟦🟦⬛️🟦🟦🟦
 🟦🟦🟦⬛️🟦🟦🟦
@@ -6869,12 +7052,12 @@ def betaloves(_, msg):
 🟦🟦🟦⬛️🟦🟦🟦
 🟦🟦🟦⬛️🟦🟦🟦
 🟦🟦🟦🟦🟦🟦🟦
-🟦🟦??⬛️''')
+🟦🟦🟦⬛️''')
 		sleep(0.001)
 		msg.edit(f'''   
 🟦🟦🟦🟦🟦🟦🟦
 🟦🟦⬛️⬛️⬛️🟦🟦
-🟦⬛️????🟦⬛️🟦
+🟦⬛️🟦🟦🟦⬛️🟦
 🟦🟦🟦🟦⬛️🟦🟦
 🟦🟦🟦⬛️🟦🟦🟦
 🟦🟦🟦⬛️🟦🟦🟦
@@ -6887,7 +7070,7 @@ def betaloves(_, msg):
 🟦⬛️🟦🟦🟦⬛️🟦
 🟦🟦🟦🟦⬛️🟦🟦
 🟦🟦🟦⬛️🟦🟦🟦
-🟦??🟦⬛️🟦??🟦
+🟦🟦🟦⬛️🟦🟦🟦
 🟦🟦🟦🟦🟦🟦🟦
 🟦🟦🟦⬛️🟦🟦''')
 		sleep(0.001)
@@ -7655,7 +7838,7 @@ ziga = '''
 
 🤍🤍🤍🤍🤍🤍🤍🤍🤍
 🤍🤍🤍🤍❤️🤍🤍🤍🤍
-🤍🤍????❤️🤍🤍🤍🤍
+🤍🤍🤍🤍❤️🤍🤍🤍🤍
 🤍🤍🤍🤍❤️🤍🤍🤍🤍
 🤍❤️❤️❤️❤️❤️❤️❤️🤍
 🤍🤍🤍🤍❤️🤍🤍🤍🤍
@@ -7666,7 +7849,7 @@ ziga = '''
 🤍🤍🤍🤍🤍🤍🤍🤍🤍
 🤍🤍🤍❤️❤️🤍🤍🤍🤍
 🤍🤍🤍🤍❤️🤍🤍🤍🤍
-🤍🤍🤍🤍❤️??🤍❤️🤍
+🤍🤍🤍🤍❤️🤍🤍❤️🤍
 🤍❤️❤️❤️❤️❤️❤️❤️🤍
 🤍❤️🤍🤍❤️🤍🤍🤍🤍
 🤍🤍🤍🤍❤️🤍🤍🤍🤍
@@ -7808,7 +7991,7 @@ ziga = '''
 🤍💜🤍🤍💜🤍🤍💜🤍
 🤍🤍🤍🤍💜🤍🤍💜🤍
 🤍💜💜💜💜💜💜💜🤍
-🤍💜🤍??💜🤍🤍🤍🤍
+🤍💜🤍🤍💜🤍🤍🤍🤍
 🤍💜🤍🤍💜🤍🤍💜🤍
 🤍💜💜🤍💜💜💜💜🤍
 🤍🤍🤍🤍🤍🤍🤍🤍🤍
@@ -7829,7 +8012,7 @@ ziga = '''
 🤍🤍🤍🤍🧡🤍🤍🧡🤍
 🤍🧡🧡🧡🧡🧡🧡🧡🤍
 🤍🧡🤍🤍🧡🤍🤍🤍🤍
-🤍🧡🤍??🧡🤍🤍🧡🤍
+🤍🧡🤍🤍🧡🤍🤍🧡🤍
 🤍🧡🧡🤍🧡🧡🧡🧡🤍
 🤍🤍🤍🤍🤍🤍🤍🤍🤍
 
