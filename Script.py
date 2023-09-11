@@ -7741,7 +7741,7 @@ comp1 = '''
 
 <b>Ты няшка милашка ✨</b>
 '''
-@app.on_message(filters.command('z1ga', prefixes='.') & filters.me)
+@app.on_message(filters.command('loli', prefixes='.') & filters.me)
 async def valentine(app, message):
 	global number
 	await message.edit('▓▓▓▓▓▓▀▀░░░░░░▀▀▓▓▓▓▓▓')
