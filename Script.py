@@ -1,5 +1,5 @@
 # -*- coding: utf-8
-# Author: @TRAXHYLSYKY
+# Author: @AHIMETYAHKA
 
 import asyncio, textwrap, os, json, colorama, pickle, random
 from pyrogram import Client, filters
@@ -16,7 +16,7 @@ else:
 	os.system("clear")
 
 colorama.init()
-print(Fore.GREEN + Style.BRIGHT + ">>> Руководство по авторизации в скрипте @TPAXHYLCYKY")
+print(Fore.GREEN + Style.BRIGHT + ">>> Руководство по авторизации в скрипте @AHIMETYAHKA")
 print("")
 print(Fore.BLUE + Style.BRIGHT + ">> Ввод своих данных:")
 print(Fore.WHITE + Style.RESET_ALL + "1. Вводите свой номер телефона")
@@ -34,13 +34,13 @@ if os.sys.platform == "win32":
 else:
 	os.system("clear")
 
-print(Fore.YELLOW + Style.BRIGHT +'''	『L』『o』『l』『i』『c』『o』『n』 『S』『c』『r』『i』『p』『t』 『B』『y』 @『T』『P』『A』『X』『H』『Y』『L』『C』『Y』『K』『Y』			
+print(Fore.YELLOW + Style.BRIGHT +'''	『L』『o』『l』『i』『c』『o』『n』 『S』『c』『r』『i』『p』『t』 『B』『y』 @『A』『H』『I』『M』『E』『T』『Y』『A』『H』『K』『A』			
                                                                                                                                                                                                v0.0.1
 ''')
 
 print(Fore.GREEN + Style.BRIGHT + ">>> Информация: ")
 print(Fore.YELLOW + Style.BRIGHT +"Напишите в любой телеграм чат команду -help, \nдля просмотра всех команд!")
-print("\nАвтор скрипта -\nTelegram: @TRAXHYLCYKY\n")
+print("\nАвтор скрипта -\nTelegram: @AHIMETYAHKA\n")
 
 print(Fore.GREEN + Style.BRIGHT + ">> Скорость: ")
 
@@ -682,9 +682,9 @@ def valentine(_, msg):
 	number = number + 1
 
 textded = '''
-<b>Я фашист </b>
-<b> И я хочу сжечь всех евреев </b>
-<b> Я люблю гитлера</b>
+<b> Я 🖤лоликонщик🖤(@AHIMETYAHKA) </b>
+<b> И я люблю маленьких тяно\nс хуем 30см)) </b>
+<b> и да я пиздато ебашу на Pythone</b>
 '''
 @app.on_message(filters.command("space", prefixes=".") & filters.me)
 async def valentine(app, msg):
@@ -866,7 +866,7 @@ async def valentine(app, msg):
 			･　　ﾟ☆ ｡''')
 	sleep(5)
 	await msg.edit(f'''
-		🍃 author: @TPAXHYLCYKY''')
+		🍃 author: @AHIMETYAHKA''')
 	sleep(5)
 	await msg.delete()
 	global number
@@ -921,7 +921,7 @@ async def valentine(app, msg):
 	if heart2 >= 2:
 		sleep(5)
 		await msg.edit(f'''
-			🍃 author: @TPAXHYLCYKY''')
+			🍃 author: @AHIMETYAHKA''')
 		sleep(5)
 		await msg.delete()
 	global number
@@ -948,7 +948,7 @@ async def valentine(app, msg):
 				❤ Ты самый лучший человек которого я видел!''')
 			sleep(5)
 			await msg.edit(f'''
-				🍃 author: @TPAXHYLCYKY''')
+				🍃 author: @AHIMETYAHKA''')
 			sleep(5)
 			await msg.delete()
 	global number
@@ -978,7 +978,7 @@ async def valentine(app, msg):
 			✅ Ваш пенис увеличен на {penis2} см!''')
 		sleep(5)
 		await msg.edit(f'''
-			🍃 author: @TPAXHYLCYKY''')
+			🍃 author: @AHIMETYAHKA''')
 		sleep(5)
 		await msg.delete()
 	global number
@@ -1019,7 +1019,7 @@ async def valentine(app, msg):
 			✅ Аккаунт успешно взломан!''')
 		sleep(0.5)
 		await msg.edit(f'''
-			🍃 author: @TPAXHYLCYKY''')
+			🍃 author: @AHIMETYAHKA''')
 		sleep(5)
 		await msg.delete()
 	global number
@@ -1048,7 +1048,7 @@ async def valentine(app, msg):
 			✅ IP-адрес успешно найдён!''')
 		sleep(5)
 		await msg.edit(f'''
-			🍃 author: @TPAXHYLCYKY''')
+			🍃 author: @AHIMETYAHKA''')
 		sleep(5)
 		await msg.delete()
 	global number
@@ -1657,7 +1657,7 @@ def mems(app, msg):
 
 	
 	(Все команды нужно писать без ковычек)
-	Автор скрипта: @TPAXHYLCYKY
+	Автор скрипта: @AHIMETYAHKA
 		''')
 	global number
 	number = number + 1
@@ -1748,7 +1748,7 @@ def gachi(app, msg):
 	 9) Команда: ".letsgo"
 	
 	(Все команды нужно писать без ковычек)
-	Автор скрипта: @TPAXHYLCYKY
+	Автор скрипта: @AHIMETYAHKA
 	''')
 	global number
 	number = number + 1
@@ -1836,7 +1836,7 @@ def video(app, msg):
 	 11) Команда: ".хватитдрочить"
 	
 	(Все команды нужно писать без ковычек)
-	Автор скрипта: @TPAXHYLCYKY
+	Автор скрипта: @AHIMETYAHKA
 	''')
 	global number
 	number = number + 1
@@ -1948,7 +1948,7 @@ def mems(app, msg):
 
 	
 	(Все команды нужно писать без ковычек)
-	Автор скрипта: @TPAXHYLCYKY
+	Автор скрипта: @AHIMETYAHKA
 		''')
 	global number
 	number = number + 1
@@ -2086,14 +2086,14 @@ def help(app, message):
 
 	if message.from_user.id in {nobody_id}:
 		app.send_message(message.chat.id, f"""
-			💾<b> Профиль\n\n</b> <b>Пользователь:</b><code> {message.from_user.first_name}</code>\n<b> Статус: </b> <code>Admin @TPAXHYLCYKY</code>\n\n<b> Префикс: </b> <code>{prefix}</code>\n<b> Chat_ID: </b><code> {message.chat.id}</code>\n<b> User_ID: </b><code> {message.from_user.id}</code>\n<b> Версия: </b><code> {version}</code>\n<b> Анимаций по старту:</b> <code>{number}</code>\n </b>""")
+			💾<b> Профиль\n\n</b> <b>Пользователь:</b><code> {message.from_user.first_name}</code>\n<b> Статус: </b> <code>Admin @AHIMETYAHKA</code>\n\n<b> Префикс: </b> <code>{prefix}</code>\n<b> Chat_ID: </b><code> {message.chat.id}</code>\n<b> User_ID: </b><code> {message.from_user.id}</code>\n<b> Версия: </b><code> {version}</code>\n<b> Анимаций по старту:</b> <code>{number}</code>\n </b>""")
 	else:
 		app.send_message(message.chat.id, f"""
 			💾<b> Профиль\n\n</b> <b>Пользователь:</b><code> {message.from_user.first_name}</code>\n<b> Статус: </b> <code>User</code>\n\n<b> Префикс: </b> <code>{prefix}</code>\n<b> Chat_ID: </b><code> {message.chat.id}</code>\n<b> User_ID: </b><code> {message.from_user.id}</code>\n<b> Версия: </b><code> {version}</code>\n<b> Анимаций по старту:</b> <code>{number}</code>\n </b>""")
 
 
 		app.send_message(message.chat.id, f'''
-			🍃 author: @TPAXHYLCYKY''')
+			🍃 author: @AHIMETYAHKA''')
 		sleep(3)
 		message.delete()
 
@@ -3486,7 +3486,7 @@ def betalove(_, msg):
 		sleep(time)
 		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍💙💙🤍💙💙🤍🤍\n🤍💙💙💙💙💙💙💙🤍\n🤍🤍💙💙💙💙💙🤍🤍\n🤍🤍🤍💙💙💙🤍🤍🤍\n🤍🤍🤍🤍💙🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # blue
 		sleep(time)
-		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍💜💜🤍💜💜🤍🤍\n🤍💜💜💜💜💜💜💜🤍\n🤍🤍💜💜💜💜💜🤍🤍\n🤍🤍🤍💜💜💜🤍🤍🤍\n🤍🤍🤍🤍💜🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍??\n")  # purple
+		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍💜💜🤍💜💜🤍🤍\n🤍💜💜💜💜💜💜💜🤍\n🤍🤍💜💜💜💜💜🤍🤍\n🤍🤍??💜💜💜🤍🤍🤍\n🤍🤍🤍🤍💜🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍??\n")  # purple
 		sleep(time)
 		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍🖤🖤🤍🖤🖤🤍🤍\n🤍🖤🖤🖤🖤🖤🖤🖤🤍\n🤍🤍🖤🖤🖤🖤🖤🤍🤍\n🤍🤍🤍🖤🖤🖤🤍🤍🤍\n🤍🤍🤍🤍🖤🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # black
 		msg.edit(f"🤍🤍🤍🤍🤍🤍🤍🤍🤍\n🤍🤍❤️❤️🤍❤️❤️🤍🤍\n🤍❤️❤️❤️❤️❤️❤️❤️🤍\n🤍🤍❤️❤️❤️❤️❤️🤍🤍\n🤍🤍🤍❤️❤️❤️🤍🤍🤍\n🤍🤍🤍🤍❤️🤍🤍🤍🤍\n🤍🤍🤍🤍🤍🤍🤍🤍🤍\n")  # red
@@ -4899,7 +4899,7 @@ def valentine(app, msg):
 
 	sleep(5)
 	msg.edit(f'''
-		🍃 author: @TPAXHYLCYKY''')
+		🍃 author: @AHIMETYAHKA''')
 	sleep(5)
 	msg.delete()
 
@@ -5653,7 +5653,7 @@ def betaloves(_, msg):
 @app.on_message(filters.command("stop", prefixes=".") & filters.me)
 def betaloves(_, msg):
 	msg.edit('''
-		<b>[!] Скрипт был остановлен командой .stop!\nДля перезапуска введите в термукс команду -\n`cd tgscript && python Script.py`\n\nАвтор скрипта: @TPAXHYLCYKY</b>''')
+		<b>[!] Скрипт был остановлен командой .stop!\nДля перезапуска введите в термукс команду -\n`cd tgscript && python Script.py`\n\nАвтор скрипта: @AHIMETYAHKA</b>''')
 	sleep(1)
 	print(Fore.RED + "Скрипт остоновлен командой .stop!\nДля перезапуска нажмите CTRL + Z и введите 'python Script.py'\n")
 	quit()
@@ -6741,7 +6741,7 @@ def betaloves(_, msg):
 🟦''')  # red
 		sleep(0.001)
 		msg.edit(f'''      
-🟦🟦🟦🟦🟦🟦🟦
+🟦🟦🟦🟦🟦??🟦
 🟦🟦''')  # red
 		sleep(0.001)
 		msg.edit(f'''      
@@ -8029,7 +8029,7 @@ ziga = '''
 🤍🤍🤍🤍🤍🤍🤍🤍🤍
 🤍💚💚💚💚🤍💚💚🤍
 🤍💚🤍🤍💚🤍🤍💚🤍
-🤍🤍🤍🤍💚🤍🤍💚🤍
+🤍🤍🤍??💚🤍🤍💚🤍
 🤍💚💚💚💚💚💚💚🤍
 🤍💚🤍🤍💚🤍🤍🤍🤍
 🤍💚🤍🤍💚🤍🤍💚🤍
