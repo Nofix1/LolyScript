@@ -35,7 +35,7 @@ else:
 	os.system("clear")
 
 print(Fore.YELLOW + Style.BRIGHT +'''	『L』『o』『l』『i』『c』『o』『n』 『S』『c』『r』『i』『p』『t』 『B』『y』 @『A』『H』『I』『M』『E』『T』『Y』『A』『H』『K』『A』			
-                                                                                                                                                                                               v0.0.1
+                                                                                                                                                                                               v0.0.3
 ''')
 
 print(Fore.GREEN + Style.BRIGHT + ">>> Информация: ")
@@ -642,11 +642,11 @@ def sendgif(app, message):
 		sleep(0.01)
 		app.send_document(message.chat.id, "https://tenor.com/view/spam-toon-toonio-%D1%82%D1%83%D0%BD%D0%B8%D0%BE-pomidorkin-gif-24712213")
 
-@app.on_message(filters.command("яфашист", prefixes=".") & filters.me)
+@app.on_message(filters.command("лоликон", prefixes=".") & filters.me)
 def valentine(_, msg):
 	txt = textded.split("\n")
 	e = True
-	etime = int(msg.text.split('.яфашист ', maxsplit=1)[1])
+	etime = int(msg.text.split('.лоликон', maxsplit=1)[1])
 	for i in txt:
 		time = etime
 		if e == True:
@@ -683,7 +683,7 @@ def valentine(_, msg):
 
 textded = '''
 <b> Я 🖤лоликонщик🖤(@AHIMETYAHKA) </b>
-<b> И я люблю маленьких тяно\nс хуем 30см)) </b>
+<b> И я люблю маленьких тянок\nс хуем 30см)) </b>
 <b> и да я пиздато ебашу на Pythone</b>
 '''
 @app.on_message(filters.command("space", prefixes=".") & filters.me)
