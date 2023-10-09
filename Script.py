@@ -40,7 +40,7 @@ print(Fore.YELLOW + Style.BRIGHT +'''	『L』『o』『l』『i』『c』『o』
 
 print(Fore.GREEN + Style.BRIGHT + ">>> Информация: ")
 print(Fore.YELLOW + Style.BRIGHT +"Напишите в любой телеграм чат команду -help, \nдля просмотра всех команд!")
-print("\nАвтор скрипта -\nTelegram: @AHIMETYAHKA\n")
+print("\nАвтор кряка -\nTelegram: @AHIMETYAHKA\n")
 
 print(Fore.GREEN + Style.BRIGHT + ">> Скорость: ")
 
@@ -1657,7 +1657,7 @@ def mems(app, msg):
 
 	
 	(Все команды нужно писать без ковычек)
-	Автор скрипта: @AHIMETYAHKA
+	Автор кряка: @AHIMETYAHKA
 		''')
 	global number
 	number = number + 1
@@ -1748,7 +1748,7 @@ def gachi(app, msg):
 	 9) Команда: ".letsgo"
 	
 	(Все команды нужно писать без ковычек)
-	Автор скрипта: @AHIMETYAHKA
+	Автор кряка: @AHIMETYAHKA
 	''')
 	global number
 	number = number + 1
@@ -1834,9 +1834,11 @@ def video(app, msg):
 	 9) Команда: ".япопулярный"
 	 10) Команда: ".тыпиздабол"
 	 11) Команда: ".хватитдрочить"
+ 	12)Команда: ".кладменмудак"
 	
 	(Все команды нужно писать без ковычек)
-	Автор скрипта: @AHIMETYAHKA
+	(кстати создатель хикки сын шлюхи)
+	Автор кряка: @AHIMETYAHKA
 	''')
 	global number
 	number = number + 1
@@ -1897,6 +1899,13 @@ def mems(app, msg):
 	global number
 	number = number + 1
 
+@app.on_message(filters.command("кладменмудак", prefixes=".") & filters.me)
+def mems(app, msg):
+	msg.delete()
+	app.send_video(msg.chat.id, "kladmen-mudak.mp4")
+	global number
+	number = number + 1
+
 @app.on_message(filters.command("япопулярный", prefixes=".") & filters.me)
 def mems(app, msg):
 	msg.delete()
@@ -1948,7 +1957,7 @@ def mems(app, msg):
 
 	
 	(Все команды нужно писать без ковычек)
-	Автор скрипта: @AHIMETYAHKA
+	Автор кряка: @AHIMETYAHKA
 		''')
 	global number
 	number = number + 1
@@ -5653,7 +5662,7 @@ def betaloves(_, msg):
 @app.on_message(filters.command("stop", prefixes=".") & filters.me)
 def betaloves(_, msg):
 	msg.edit('''
-		<b>[!] Скрипт был остановлен командой .stop!\nДля перезапуска введите в термукс команду -\n`cd tgscript && python Script.py`\n\nАвтор скрипта: @AHIMETYAHKA</b>''')
+		<b>[!] Скрипт был остановлен командой .stop!\nДля перезапуска введите в термукс команду -\n`cd tgscript && python Script.py`\n\nАвтор кряка: @AHIMETYAHKA</b>''')
 	sleep(1)
 	print(Fore.RED + "Скрипт остоновлен командой .stop!\nДля перезапуска нажмите CTRL + Z и введите 'python Script.py'\n")
 	quit()
@@ -6728,7 +6737,7 @@ def betaloves(_, msg):
 🟦🟦🟦🟦''')  # red
 		sleep(0.001)
 		msg.edit(f'''      
-🟦🟦🟦🟦🟦''')  # red
+🟦🟦🟦🟦??''')  # red
 		sleep(0.001)
 		msg.edit(f'''      
 🟦🟦🟦🟦🟦🟦''')  # red
@@ -8014,7 +8023,7 @@ ziga = '''
 🤍🧡🤍🤍🧡🤍🤍🤍🤍
 🤍🧡🤍🤍🧡🤍🤍🧡🤍
 🤍🧡🧡🤍🧡🧡🧡🧡🤍
-🤍🤍🤍🤍🤍🤍🤍🤍🤍
+🤍🤍??🤍🤍🤍🤍🤍🤍
 
 🤍🤍🤍🤍🤍🤍🤍🤍🤍
 🤍💛💛💛💛🤍💛💛🤍
